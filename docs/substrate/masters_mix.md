@@ -6,11 +6,11 @@
 
 ### 5 LB Fruiting Block
 
-| Ingredient       | Qty  |
-| ---------------- | ---- |
-| Hardwood Sawdust | 1lb  |
-| Soy Hulls        | 1lb  |
-| Water            | 1.4L |
+| Ingredient       | Qty   |
+| ---------------- | ----- |
+| Hardwood Sawdust | 1 lb  |
+| Soy Hulls        | 1 lb  |
+| Water            | 1.4 L |
 
 ## Process
 
@@ -18,4 +18,4 @@
 1. Soak hardwood with remaining water.
 1. Mix together well.
 1. Separate into substrate bags.
-1. Sterilize for 2.5 hours @ 15PSI.
+1. Sterilize for 2.5 hours @ 15 PSI.
