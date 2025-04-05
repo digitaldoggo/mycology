@@ -13,9 +13,10 @@
 > Started with cool waterd
 
 | Time     | Event                     |
-| -------- | ------------------------- | ----------------- | --- |
+| -------- | ------------------------- |
 | 10:40 AM | Start Sterilizer          |
 | 12:10 PM | Pressure Reached - 15 PSI |
 | 2:40 PM  | Stop Sterilizer           |
 | 4:45 PM  | Pressure Relieved - 0 PSI |
-| <!--     |                           | Completely Cooled | --> |
+
+<!-- |  | Completely Cooled| -->
