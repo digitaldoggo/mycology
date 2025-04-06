@@ -10,7 +10,9 @@
 
 ### Steralization
 
-> Started with cool waterd
+> Started with cool water
+
+#### 2025-04-05
 
 | Time     | Event                     |
 | -------- | ------------------------- |
@@ -20,3 +22,14 @@
 | 4:45 PM  | Pressure Relieved - 0 PSI |
 
 <!-- |  | Completely Cooled| -->
+
+### Innoculation
+
+> Grainspawn - 3:20 ratio (15%)
+
+#### 2025-04-06
+
+| Time    | Event                 |
+| ------- | --------------------- |
+| 2:00 PM | Start Innoculation    |
+| 2:55 PM | Complete Innoculation |
